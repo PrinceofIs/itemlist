@@ -576,6 +576,12 @@
     "version": null
   },
   {
+    "author": "Sarg",
+    "name": "Magical Menagerie",
+    "steamId": "1821617793",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "NoImageAvailable",
     "name": "Mass Graves",
     "steamId": "1542386771",
@@ -792,6 +798,24 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Weapons Expanded - Heavy Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Turnovus",
+    "name": "Packs Are Not Belts",
+    "steamId": "2509511179",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Owlchemist",
     "name": "Perspective: Buildings",
     "steamId": "2594383552",
@@ -996,10 +1020,34 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "RimWorld - Witcher Monster Hunt",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Jecrell",
     "name": "RimWriter - Books, Scrolls, Tablets, and Libraries",
     "steamId": "1521844535",
     "version": "1.1.0.7"
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Magic",
+    "steamId": "2020384442",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWI",
+    "name": "Rimhammer - The End Times - Beastmen",
+    "steamId": "2020384947",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SickBoyWi",
+    "name": "Rimhammer - The End Times - WITH GUNS!!",
+    "steamId": "2008718043",
+    "version": "1.0.0.0"
   },
   {
     "author": "SheiFoxy",
@@ -1488,18 +1536,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and  Taranchuk",
-    "name": "Vanilla Weapons Expanded - Heavy Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Laser",
     "steamId": null,
@@ -1556,6 +1592,36 @@
   {
     "author": "Crustypeanut",
     "name": "War Crimes Expanded 2 Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer\"ish\":Dryad",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Daemonettes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Fimir",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Gor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kompadt",
+    "name": "Warhammer: Zhthy'hl",
     "steamId": null,
     "version": null
   },
@@ -1798,53 +1864,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer\"ish\":Dryad",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Daemonettes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Zhthy'hl",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Gor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kompadt",
-    "name": "Warhammer: Fimir",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SickBoyWi",
-    "name": "Rimhammer - The End Times - WITH GUNS!!",
-    "steamId": "2008718043",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Magic",
-    "steamId": "2020384442",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SickBoyWI",
-    "name": "Rimhammer - The End Times - Beastmen",
-    "steamId": "2020384947",
-    "version": "1.0.0.0"
   }
 ]
