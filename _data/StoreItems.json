@@ -34991,7 +34991,367 @@
 		"price": 417,
 		"category": "Animals",
 		"defname": "WMH_Golem"
+	},
+	{
+		"abr": "golemtrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandGolem"
+	},
+	{
+		"abr": "griffin",
+		"price": 1000,
+		"category": "Animals",
+		"defname": "MM_Griffin"
+	},
+	{
+		"abr": "griffinegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggGriffinFertilized"
+	},
+	{
+		"abr": "heavymagicalleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "MM_HeavyMagicalLeather"
+	},
+	{
+		"abr": "hym",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Hym"
+	},
+	{
+		"abr": "hymtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeHym"
+	},
+	{
+		"abr": "ieltxu",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Ieltxu"
+	},
+	{
+		"abr": "ieltxuegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggIeltxuFertilized"
+	},
+	{
+		"abr": "kappa",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_Kappa"
+	},
+	{
+		"abr": "kikimorequeen",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_KikimoreQueen"
+	},
+	{
+		"abr": "kikimoretrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandKikimore"
+	},
+	{
+		"abr": "kikimorewarrior",
+		"price": 333,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWarrior"
+	},
+	{
+		"abr": "kikimoreworker",
+		"price": 167,
+		"category": "Animals",
+		"defname": "WMAux_KikimoreWorker"
+	},
+	{
+		"abr": "kitsune",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Kitsune"
+	},
+	{
+		"abr": "lernaeanhydra",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_LernaeanHydra"
+	},
+	{
+		"abr": "leshy",
+		"price": 2500,
+		"category": "Animals",
+		"defname": "WMH_Leshy"
+	},
+	{
+		"abr": "leshytrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeLeshy"
+	},
+	{
+		"abr": "lesserwyvern",
+		"price": 2083,
+		"category": "Animals",
+		"defname": "MM_LesserWyvern"
+	},
+	{
+		"abr": "lightmagicalleather",
+		"price": 6,
+		"category": "Leathers",
+		"defname": "MM_LightMagicalLeather"
+	},
+	{
+		"abr": "manticore",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "MM_Manticore"
+	},
+	{
+		"abr": "monstermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_WMH_Chort"
+	},
+	{
+		"abr": "nekker",
+		"price": 25,
+		"category": "Animals",
+		"defname": "WMH_Nekker"
+	},
+	{
+		"abr": "nekkertrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeNekker"
+	},
+	{
+		"abr": "pegasus",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Pegasus"
+	},
+	{
+		"abr": "phoenix",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Phoenix"
+	},
+	{
+		"abr": "phoenixegg(fert.)",
+		"price": 17,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggPhoenixFertilized"
+	},
+	{
+		"abr": "qilin",
+		"price": 417,
+		"category": "Animals",
+		"defname": "MM_Qilin"
+	},
+	{
+		"abr": "salamander",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Salamander"
+	},
+	{
+		"abr": "salamanderegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "MM_EggSalamanderFertilized"
+	},
+	{
+		"abr": "tlilcoatl",
+		"price": 750,
+		"category": "Animals",
+		"defname": "MM_Tlilcoatl"
+	},
+	{
+		"abr": "unicorn",
+		"price": 917,
+		"category": "Animals",
+		"defname": "MM_Unicorn"
+	},
+	{
+		"abr": "werewolf",
+		"price": 750,
+		"category": "Animals",
+		"defname": "WMH_Werewolf"
+	},
+	{
+		"abr": "werewolftrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWerewolf"
+	},
+	{
+		"abr": "wildminotaur",
+		"price": 583,
+		"category": "Animals",
+		"defname": "MM_WildMinotaur"
+	},
+	{
+		"abr": "will-o'-wisp",
+		"price": 250,
+		"category": "Animals",
+		"defname": "MM_WillOWisp"
+	},
+	{
+		"abr": "wraith",
+		"price": 292,
+		"category": "Animal",
+		"defname": "WMH_Wraith"
+	},
+	{
+		"abr": "wraithtrophy",
+		"price": 517,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyLargeWraith"
+	},
+	{
+		"abr": "wyvern",
+		"price": 583,
+		"category": "Animals",
+		"defname": "WMH_Wyvern"
+	},
+	{
+		"abr": "wyverntrophy(grand)",
+		"price": 1125,
+		"category": "Trophies",
+		"defname": "WMHT_TrophyGrandWyvern"
+	},
+	{
+		"abr": "xiezhi",
+		"price": 833,
+		"category": "Animals",
+		"defname": "MM_Xiezhi"
+	},
+	{
+		"abr": "animabear",
+		"price": 3333,
+		"category": "Animals",
+		"defname": "AnimaBear"
+	},
+	{
+		"abr": "animabearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaBear"
+	},
+	{
+		"abr": "animabearskin",
+		"price": 17,
+		"category": "Leathers",
+		"defname": "Leather_AnimaBear"
+	},
+	{
+		"abr": "animabranch",
+		"price": 1667,
+		"category": "Items",
+		"defname": "AnimaBranch"
+	},
+	{
+		"abr": "animaheart",
+		"price": 5000,
+		"category": "Archotech",
+		"defname": "AnimaHeart"
+	},
+	{
+		"abr": "animasapling",
+		"price": 1667,
+		"category": "Special",
+		"defname": "AnimaSapling"
+	},
+	{
+		"abr": "animathrumbo",
+		"price": 8333,
+		"category": "Animals",
+		"defname": "AnimaThrumbo"
+	},
+	{
+		"abr": "animathrumbohorn",
+		"price": 2667,
+		"category": "Items",
+		"defname": "AnimaThrumboHorn"
+	},
+	{
+		"abr": "animathrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaThrumbo"
+	},
+	{
+		"abr": "animathrumbomilk",
+		"price": 8,
+		"category": "Animal products",
+		"defname": "AnimaThrumboMilk"
+	},
+	{
+		"abr": "animathrumbofur",
+		"price": 30,
+		"category": "Leathers",
+		"defname": "Leather_AnimaThrumbo"
+	},
+	{
+		"abr": "animawarg",
+		"price": 1667,
+		"category": "Animals",
+		"defname": "AnimaWarg"
+	},
+	{
+		"abr": "animawargmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaWarg"
+	},
+	{
+		"abr": "animawargskin",
+		"price": 10,
+		"category": "Leathers",
+		"defname": "Leather_OPAnimaWarg"
+	},
+	{
+		"abr": "animawarg'srazorfang",
+		"price": 833,
+		"category": "Items",
+		"defname": "AnimaWargFang"
+	},
+	{
+		"abr": "animayak",
+		"price": 1333,
+		"category": "Animals",
+		"defname": "AnimaYak"
+	},
+	{
+		"abr": "animayakbeef",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AnimaYak"
+	},
+	{
+		"abr": "animayakleather",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_AnimaYak"
+	},
+	{
+		"abr": "animayakwool",
+		"price": 20,
+		"category": "Textiles",
+		"defname": "WoolAnimaYak"
+	},
+	{
+		"abr": "makeshiftrazorfangknife",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_RazorfangKnife"
 	}
 	],
-	"total": 5872
+	"total": 5892
 }
