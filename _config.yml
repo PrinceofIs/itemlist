@@ -29,7 +29,7 @@ store:
     limit: true
     description: true
     usage: false
-    mod: true
+    mod: false
   kinds:
     mod: true
     karma: true
@@ -39,14 +39,14 @@ store:
     weight: true
     karma: true
     quantity: true
-    mod: true
+    mod: false
     usage: true
   events:
     usage: true
-    mod: true
+    mod: false
   animals:
     usage: true
-    mod: true
+    mod: false
     weight: true
     quantity: true
     karma: true
@@ -59,7 +59,7 @@ commands:
   # Whether or not the command list will display the command's uage.
   usage: true
   # Whether or not the command list will display the mod that added it.
-  mod: true
+  mod: false
 
 mods:
   # Whether or not the mod list will display the mod's version.
