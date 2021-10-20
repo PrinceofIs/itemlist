@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "gallatrosswanderin",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -503,7 +503,7 @@
 	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "iceage",
@@ -547,7 +547,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -557,12 +557,12 @@
 	},
 	{
 		"abr": "cargopodsweapons",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cargopodsapparel",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{

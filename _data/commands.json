@@ -792,6 +792,23 @@
       "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
+    "description": "Makes your pawn leave the colony.\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
+    "name": "Abandon pawn",
+    "usage": "!leave",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
     "description": "Shows your pawn's relationships to other viewers.\n<i><color=#66E0E4FF>ToolkitUtils</color></i>",
     "name": "Viewer relations",
     "usage": "!mypawnrelations [viewer]",
